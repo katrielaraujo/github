@@ -1,2 +1,2 @@
-# udemy-javascript
-projeto de desenvolvimento de sites com node.js e react
+# Git Hub 
+projeto para ensino de git
